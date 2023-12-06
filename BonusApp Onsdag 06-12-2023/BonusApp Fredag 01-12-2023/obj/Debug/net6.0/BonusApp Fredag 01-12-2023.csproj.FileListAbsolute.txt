@@ -1,0 +1,14 @@
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\bin\Debug\net6.0\BonusApp Fredag 01-12-2023.exe
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\bin\Debug\net6.0\BonusApp Fredag 01-12-2023.deps.json
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\bin\Debug\net6.0\BonusApp Fredag 01-12-2023.runtimeconfig.json
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\bin\Debug\net6.0\BonusApp Fredag 01-12-2023.dll
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\bin\Debug\net6.0\BonusApp Fredag 01-12-2023.pdb
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\BonusApp Fredag 01-12-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\BonusApp Fredag 01-12-2023.AssemblyInfoInputs.cache
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\BonusApp Fredag 01-12-2023.AssemblyInfo.cs
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\BonusApp Fredag 01-12-2023.csproj.CoreCompileInputs.cache
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\BonusApp Fredag 01-12-2023.dll
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\refint\BonusApp Fredag 01-12-2023.dll
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\BonusApp Fredag 01-12-2023.pdb
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\BonusApp Fredag 01-12-2023.genruntimeconfig.cache
+C:\Archive S\UCL\Grey Git Repos\UCL\UCL Opgaver\BonusApp Fredag 01-12-2023\BonusApp Fredag 01-12-2023\obj\Debug\net6.0\ref\BonusApp Fredag 01-12-2023.dll
